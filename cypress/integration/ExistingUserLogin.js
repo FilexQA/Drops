@@ -1,5 +1,5 @@
 
-describe("New User Registration", () => {
+describe("Existing User Login", () => {
     it("Open URL", () => {
         cy.visit('https://app.languagedrops.com') // visit Url
        
